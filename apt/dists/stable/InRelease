@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Zshctl Repository
+Label: Zshctl
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: all
+Components: main
+Description: ZSH CLI application framework.
+Date: Thu, 15 May 2025 02:56:56 +0000
+MD5Sum:
+ 2e22cf1f3fea8646873dc470f2f6bf01 317 main/binary-all/Packages.gz
+ f58c4a15f2c23179f58eb25bf6c994d5 390 main/binary-all/Packages
+SHA1:
+ 3195937d1591e7035af244da0c723788e720a3e0 317 main/binary-all/Packages.gz
+ 2717ca0b60e8e7138e5760a689d98400a80a282d 390 main/binary-all/Packages
+SHA256:
+ b83407596f3873bb145ca58afe6ca940c010ffd0a7320085a741aad1b3b96ade 317 main/binary-all/Packages.gz
+ 46772a06bc2949ffe8269d68f420c520083d86f60f5d2543b062f73e813bf4ff 390 main/binary-all/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQJKBAEBCgA0FiEEIxlvB5rnyrfpA9sSgmLI1tCVnG8FAmglV/gWHGFsYW5AcHJl
+dHR5cm9ib3RzLmNvbQAKCRCCYsjW0JWcb6OhD/0eNzaTCsMPR0hUpFFl+UzlQjlx
+GuymH+cyjv0Z3zEh9z30RNC+CQVY9jSt/AY69J1gD6Z234V32EW8QqSgm4+29FYe
+GPDkS3lA3rcRFDy1cI9v1m8xmoTTYQlmbwZhF9I8Rka/Qw/bTIutJJDYTDyQP5oa
+ovO9O2jL+D/2wa6LRuCD+oFnSwoz4zHdk5KgpJhevT7VH2bTe3NvbtjRl/yaXza+
+tdGjHvjjEyaNz6kM3gdCrEJ6FNvc+XOfZFqmGuoxvWm1su0F0LEnO5Y8R2Kd3Z8a
+IfdWiXesWnJg2fLJBC2oPNIfbUdcbxnl7taQapFl/HP8KUnAnXC0Zb8mQdIJ1WOs
+FnEDTZo9kQ53xwmdZmudQAYZRlEYIg2YkWmkjYhfORHO87Trtt72mbPTUc2joZUt
+9+3ACE5E1BtY3AYk/rXeiisLfnPnI2cdHU5JUekPZxwMIz9MMJVBFVZpP8NMhRwc
+pjzW+8OFqEyycOUUgiZ27h5KR4Ck5NOUapM4nZWhKEgtnuE/BZJsYYfarPV/ITbP
+Ru2uQMFWfwLtBQKnipZQc1bVnsZ57b0QAWQj5Cuz5X6o0Mz+FDU8PcRkqhFAK8TZ
+pYrqtzM+WGO5e6eAWDBuF363Qec9/ik30ewEx0ruPslz7U28yk67fhVC27RM3uvJ
+hNCXX9cDPS9vn74+yw==
+=WC7q
+-----END PGP SIGNATURE-----

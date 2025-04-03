@@ -1,0 +1,18 @@
+Origin: Zshctl Repository
+Label: Zshctl
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: all
+Components: main
+Description: ZSH CLI application framework.
+Date: Thu, 15 May 2025 02:56:56 +0000
+MD5Sum:
+ 2e22cf1f3fea8646873dc470f2f6bf01 317 main/binary-all/Packages.gz
+ f58c4a15f2c23179f58eb25bf6c994d5 390 main/binary-all/Packages
+SHA1:
+ 3195937d1591e7035af244da0c723788e720a3e0 317 main/binary-all/Packages.gz
+ 2717ca0b60e8e7138e5760a689d98400a80a282d 390 main/binary-all/Packages
+SHA256:
+ b83407596f3873bb145ca58afe6ca940c010ffd0a7320085a741aad1b3b96ade 317 main/binary-all/Packages.gz
+ 46772a06bc2949ffe8269d68f420c520083d86f60f5d2543b062f73e813bf4ff 390 main/binary-all/Packages
