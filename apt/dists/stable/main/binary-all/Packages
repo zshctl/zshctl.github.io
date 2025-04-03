@@ -1,0 +1,24 @@
+Package: zshctl
+Version: 0.0.1
+Architecture: all
+Maintainer: Alan Gutierrez <alan@prettyrobots.com>
+Depends: zsh, less, groff-base
+Filename: pool/main/zshctl_0.0.1_all.deb
+Size: 24712
+MD5sum: 80d338c2ded9d831cfbf04b3673fa211
+SHA1: a13d940a09ba238e87e98268bfec27ebe33ab94c
+SHA256: c320de4a711fe0233d49ab3bbe7477b2b4ff38c7cf263a7d3b10290ee2335a03
+Description: ZSH CLI application framework.
+
+Package: zshctl
+Version: 0.0.2
+Architecture: all
+Maintainer: Alan Gutierrez <alan@prettyrobots.com>
+Depends: zsh, less, groff-base
+Filename: pool/main/zshctl_0.0.2_all.deb
+Size: 24454
+MD5sum: c6d44b02565cfc405092f1141b8d3700
+SHA1: 1246085b71d034b14f1735b1d30e94ef812e8727
+SHA256: 07ee5b290ab8c25ffef24691dc81bafea01d94e1937cf3c0ff8944c05b616b11
+Description: ZSH CLI application framework.
+
