@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Zshctl Repository
+Label: Zshctl
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: all
+Components: main
+Description: ZSH CLI application framework.
+Date: Fri, 30 May 2025 17:31:52 +0000
+MD5Sum:
+ be4edf1ef49e2ba13ec9f19b53b83a49 1606 InRelease
+ 3fb8a221fcffcee58551263246217593 432 main/binary-all/Packages.gz
+ 586042cf0e62329bd574be69bba3c448 780 main/binary-all/Packages
+ 6937dd52898dc57a2713b8890190bb21 866 Release.gpg
+SHA1:
+ ba4a5cec13c1d01e69a99093491fe8303ccae77a 1606 InRelease
+ 4b5f8cfdf568324cda6b12af6ca872b6015b04f4 432 main/binary-all/Packages.gz
+ 860b0f5bf099a52f7059237d5a872f84eca49dd7 780 main/binary-all/Packages
+ e34e6a69164bd9927f81c86ddb122795716277a1 866 Release.gpg
+SHA256:
+ c880583167d8f0263b4a260cdec331f63958442d49745f6e7ace8c8508d3c3f7 1606 InRelease
+ e7278c1c901c06f6f3e9db877b22b905ff4653ec8c63f4ee926dda4c2139eef0 432 main/binary-all/Packages.gz
+ 78e422872c873b166bdb29540f38673660a571221bb001a35796c762579b2c9b 780 main/binary-all/Packages
+ 256a39ea2c0f2bf3b66f6110c47c9829ea49dfeef9d0fb25c86fc8759b87ff59 866 Release.gpg
+-----BEGIN PGP SIGNATURE-----
+
+iQJKBAEBCgA0FiEEIxlvB5rnyrfpA9sSgmLI1tCVnG8FAmg564gWHGFsYW5AcHJl
+dHR5cm9ib3RzLmNvbQAKCRCCYsjW0JWcbxmND/4msNGtg8qyhtBsOY+jlWydi4Bf
+fh7WaI9DBOswJEEBEkhssrbvMBBtd7QutbylZj9Y2SJFMmn9IS6pXX+yuFMliAai
+pAhV3h43FRSxVeDj8X+enqAQvBLf93oqiQ/DJDwTDuM6UosKXJt0uO2FGeOuwnpK
+l+GHWLeySIn4nSajo6Tgsyhlle1E9xnJzoxCfi0z9ThGhUJpvqPZojO9ytciTJ4B
+uPPVo58jyCSyNr3frZRQhSTbGxlGWz6RS1abAwQIxutOIXiG/bOr9JK4L7QeOWrw
+mtIhyDPzN6tegE5PjpURzkgpYo26DX2p6fk4ieWARx4JSCejnkuZ15M/hv6N8XdD
+C5gzGXJNQtB+lWsAe5mOYSBByz0AgZCBIb+GyRGj7qfNEKHeFI+VcxwwGKX/jbNS
+KCNjLG6xTgAW0rb059Y0PeKQQ8c0zYJdTkrPfN40+b1zp7iG6NZH+CwhLdV90QJ+
+pX/n/NwjLrV35fHAI9FiW2RS9ghxf/2b0mTy/3unZntabTbQqtiZnbDtR+8UaY23
+OpQpW89wL19jRGtmu+VMO9IC+snfshiIXim5Wv4v3hflMthLHm1CJlyIxhtk0WlI
+3J49b7xn6c5q1mzF7hauxOfsLndIzqZ+UCwwEZdKrar9nsHKltGZI1FoowoNiGyW
+9t3kuKlzk50TohIBSw==
+=cSqw
+-----END PGP SIGNATURE-----
