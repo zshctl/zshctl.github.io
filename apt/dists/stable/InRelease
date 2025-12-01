@@ -9,36 +9,36 @@ Version: 1.0
 Architectures: all
 Components: main
 Description: ZSH CLI application framework.
-Date: Thu, 27 Nov 2025 15:41:23 +0000
+Date: Mon, 01 Dec 2025 18:20:12 +0000
 MD5Sum:
- f2de7208ecb97f98e4056c9bb3a0b196 1986 InRelease
- 493a57c46ea256928763fe439921a719 731 main/binary-all/Packages.gz
- cef8cd69bc7af42a6e7d8be820088543 1950 main/binary-all/Packages
- 04bdfe1940448c27073dcbe3ceac14b1 866 Release.gpg
+ 0bec862be58ae7deb7470e50fd696750 1986 InRelease
+ 8a2dfb27bd98b7e4c59e8e42266bd4c2 829 main/binary-all/Packages.gz
+ 493c6a198b867dedba81258bd65d86fe 2340 main/binary-all/Packages
+ b99c9edcbd0a6396c879c19ab8d5d26e 866 Release.gpg
 SHA1:
- bc2c06ced11a1416847e675ae308834880e728d6 1986 InRelease
- 54b561c5bf17e81d4e9d55f3228673f56793e83c 731 main/binary-all/Packages.gz
- dcb0f29e8546ab527df4beff7b9d6e53c8cafe19 1950 main/binary-all/Packages
- 960b326a98dd131c33534cc29df07bb405b9f09f 866 Release.gpg
+ 915adc0818b15ee186df60b86c33f2b269be59ea 1986 InRelease
+ 262e7ffda3ad05e24ae574719e3308365df44e4a 829 main/binary-all/Packages.gz
+ 8831eab8b694c9f5630045206bc114e89973b479 2340 main/binary-all/Packages
+ 769d58cb4df3262ff69036a5f80b18e5325d629f 866 Release.gpg
 SHA256:
- b96961122b89fdd5fef9f4b64e0d70e25f1a85f2262eb2031b9c9d2d95369b77 1986 InRelease
- 5efe3cda5ae94253af138715b0cc5720ef3e019892373cb212780b454a2bf996 731 main/binary-all/Packages.gz
- 36721be5ed886b4aefc71bdd37dafe7771901942d871ce2b8fc54346954ffc13 1950 main/binary-all/Packages
- 4f922d42268f8230498fc278c1c13a8a2144888eeb4dc0949cf08f9699520784 866 Release.gpg
+ 560e408d5dde645597884983f0de5d5d41a484c2805771eaa2629fbee50e3ed7 1986 InRelease
+ 6e3248fade595c767ca5a9a942d3c675dc1096427bdd58e460abb2ee5bca7287 829 main/binary-all/Packages.gz
+ 8eb6beeeb08365e995426f221f4524977706f281ded19c2820faa298018cb2f8 2340 main/binary-all/Packages
+ b662e8741227d33d23600dae21855cc20d2c65b57d0cc19c19aaebcf3fd3afe7 866 Release.gpg
 -----BEGIN PGP SIGNATURE-----
 
-iQJKBAEBCgA0FiEEIxlvB5rnyrfpA9sSgmLI1tCVnG8FAmkocSMWHGFsYW5AcHJl
-dHR5cm9ib3RzLmNvbQAKCRCCYsjW0JWcbz1yD/9qV3/VFkUzI4swspeHQO++xqnX
-Rml46Pk8ROF12lRi7P+LZmLtq595TPdIPFXeIx9XW/401hLTHS/duNQYf+Jwkqxe
-AbPjZHbWI9AOV26wh3tsw+vRgsz6eH/BvxcuEtvm90o1oxyP2QAcZA2ykw3OqIh9
-RtrqmdX+vyD2quZV+At0RrCquCHgliyQ405v0ruCtDEzDu36h+6QeZwIlGF+U/8d
-LJz6WJCgP7WsFlq9EsvUL9r8xjvOXODXfT2jb9O67QW0O0q82UoBbsuzKPKHj1uf
-6I/t74jK51rOl0iLjxSsQ2wXHMSc1lFerB7zjV1AQMHNIOwrr0XUa0Eslk2Wdjv9
-JbI+5k29sZbjh4V/5tcqNq8WDPB43I6QSIOjWxm8dtRgMMA7DrCz1604sf8YXA/l
-xEREa5s1y71TBDwHTHyQ4kUVDfDlbJMo8kg0SF4e3ChSacpRMrfpLH6ug3/1zI8L
-eTr0AMB8xR4dpAwwscecQ90HVVNLvXQ45tR+aSuBYH/z2KDZfUqlDbxs5/nAVPma
-Eq5gWLiZ9bsuj82vld9PIKPEOPCpsCigMx4tXwxo0aZrRATTD88LcKKcxsq1UEIz
-A4nEdTEWVuv/3/sAWz8LvVjpUfXXh16MKrUT+aPdDeD0uuERYSohYV/+/IDfoZOC
-w2rKRN4MkroHJk7l7g==
-=wAfj
+iQJKBAEBCgA0FiEEIxlvB5rnyrfpA9sSgmLI1tCVnG8FAmkt3FwWHGFsYW5AcHJl
+dHR5cm9ib3RzLmNvbQAKCRCCYsjW0JWcb7TFD/9ohlNCvXjBFVXvXewONWP8VDe2
+165mnW3JPc71bInvhcV8vr6ZqEDkCx2MsATFFlNP0I+BKpT+DQF2j9b6rT+xMydf
+C8SbIpMFiwi8jIx9HWlIT23JiyjcCXZW8fvonczlUDpsuNUJJBjj6eHAUXjGyjFq
+RoXfwPcbko7iQJ8s9CC0zid8XIrEivbYp9Ubg1Agvu4v4C9wVHSycXrT4heCMHtN
+k6XwsFHr6oARC6c9IptW6g7lGzf6rMFGYMO7s7s5ctbihv7c/aRfYWPkHpVXpdw3
+L2Bu3ln19NDX+ktbXsvdfm/x/1874aTSI9Ybvlom7h2mMf8/S04534LqayjV+1jk
+GPl8s8sZD6RtWE+6wAXdF+U2bDxI0qPBO4HNZVH4bu+LIxLWL8XGMqYmQ6z54KF9
+By8+5SnSxQr4w6deWOzIBM1Lr3RDMb89tNRTenEUOYtJhI2CchkyJiAYppwzs6G2
+QMMJrX+JFMlSqooUndco8bGpT9oeoGkUgPyGuh5etBtPIooWlK7mn1qYzoLFO71d
+ANigdCTqjL68KfEYbhkLKuPu/CC1PYfynEDqGyykkAUfifhnD6JdOMOpWChE2ihf
+jrg4tA2CV9avEKsJtkec7NQ2tzvX3KxM43TiM0AMmYs6rMoC7KbqfLAndLrrmUSK
+DM+kjf3I3G3aIYFW3Q==
+=ojOG
 -----END PGP SIGNATURE-----

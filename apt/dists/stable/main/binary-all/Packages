@@ -58,3 +58,15 @@ SHA1: 3b59d5e08645197a8f3511d49d2cf1cdd3ba7d10
 SHA256: 3001349b177156b370b847adc23a0c011138631ccc3eab393365ce5d1438c70c
 Description: ZSH CLI application framework.
 
+Package: zshctl
+Version: 0.0.6
+Architecture: all
+Maintainer: Alan Gutierrez <alan@prettyrobots.com>
+Depends: zsh, less, groff-base
+Filename: pool/main/zshctl_0.0.6_all.deb
+Size: 38554
+MD5sum: 418c4b12849fcb0ffcbc98b7bd5aa367
+SHA1: 9841b714e50e4b184a98b12531a74f37b3ce7313
+SHA256: c8a29ca673adbf64892082200b0699ca74afe981f04f3d443e3fda297163c7f9
+Description: ZSH CLI application framework.
+
