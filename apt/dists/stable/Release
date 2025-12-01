@@ -6,19 +6,19 @@ Version: 1.0
 Architectures: all
 Components: main
 Description: ZSH CLI application framework.
-Date: Thu, 27 Nov 2025 15:41:23 +0000
+Date: Thu, 16 Jul 2026 18:58:37 +0000
 MD5Sum:
- f2de7208ecb97f98e4056c9bb3a0b196 1986 InRelease
- 493a57c46ea256928763fe439921a719 731 main/binary-all/Packages.gz
- cef8cd69bc7af42a6e7d8be820088543 1950 main/binary-all/Packages
- 04bdfe1940448c27073dcbe3ceac14b1 866 Release.gpg
+ 69f38759ed6922723ea9d047734a2bf7 1986 InRelease
+ c6325dfbda6ec698d7be37affef41156 866 Release.gpg
+ 593e02bb77dde98838d6d8209bcf490d 2730 main/binary-all/Packages
+ 94046fb075cf9b4ca4777e30706f2b89 928 main/binary-all/Packages.gz
 SHA1:
- bc2c06ced11a1416847e675ae308834880e728d6 1986 InRelease
- 54b561c5bf17e81d4e9d55f3228673f56793e83c 731 main/binary-all/Packages.gz
- dcb0f29e8546ab527df4beff7b9d6e53c8cafe19 1950 main/binary-all/Packages
- 960b326a98dd131c33534cc29df07bb405b9f09f 866 Release.gpg
+ a46fca8132207de2217412f5253912e5d98904d2 1986 InRelease
+ 6972dd8d0a1ba1c8db9330c44149791e93440b2e 866 Release.gpg
+ 3dac399feb3d8a462ae2d1c8d6ea2d954aac6c1e 2730 main/binary-all/Packages
+ 532a2fe536c292db4375d594266964ac6cdbfd2b 928 main/binary-all/Packages.gz
 SHA256:
- b96961122b89fdd5fef9f4b64e0d70e25f1a85f2262eb2031b9c9d2d95369b77 1986 InRelease
- 5efe3cda5ae94253af138715b0cc5720ef3e019892373cb212780b454a2bf996 731 main/binary-all/Packages.gz
- 36721be5ed886b4aefc71bdd37dafe7771901942d871ce2b8fc54346954ffc13 1950 main/binary-all/Packages
- 4f922d42268f8230498fc278c1c13a8a2144888eeb4dc0949cf08f9699520784 866 Release.gpg
+ 376fd8efbac33e7baaaf3961ee28bed0fd7253e690c951764b17fcafed2e054f 1986 InRelease
+ 459550dc723745c8675ab3e1f409df8426f41a3bd32a1c600e0e0b2bbc6865ab 866 Release.gpg
+ c8c90c21cd5aa091bc6ff903d738329747b4c1caf700ad090ef14799ee9b7f66 2730 main/binary-all/Packages
+ 685288258c3be5b8b41bba2ea231bb468a384fdd8dae939935dc7263921bb323 928 main/binary-all/Packages.gz
