@@ -26,6 +26,7 @@ if ! whence brew > /dev/null; then
 fi
 
 # tap and install zshctl.
+brew trust zshctl/zshctl
 brew install zshctl/zshctl/zshctl
 #brew install zshctl
 
